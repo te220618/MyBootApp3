@@ -1,4 +1,4 @@
-package jp.te4a.spring.boot.myapp5.mybootapp5;
+package jp.te4a.spring.boot.myapp5;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
